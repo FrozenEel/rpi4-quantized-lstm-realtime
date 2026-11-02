@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+psutil
+torch
+onnx
+onnxruntime
+onnxscript
+matplotlib

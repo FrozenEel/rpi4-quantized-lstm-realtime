@@ -1,0 +1,6 @@
+CMAPSSData/
+*.pt
+*.onnx
+__pycache__/
+artifacts/
+.venv/

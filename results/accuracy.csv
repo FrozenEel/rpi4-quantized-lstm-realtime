@@ -1,0 +1,3 @@
+variant,val_rmse,val_mae,val_r2,val_nasa_score,test_rmse,test_mae,test_r2,test_nasa_score,test_max_abs_diff_vs_first
+ort_fp32,12.356,9.017,0.912,8414.355,14.898,10.622,0.871,381.177,0.0
+ort_int8,12.369,9.034,0.912,8425.055,14.956,10.696,0.87,387.152,1.2174
