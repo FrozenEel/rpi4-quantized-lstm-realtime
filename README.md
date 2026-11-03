@@ -108,4 +108,4 @@ CSVs of every run are in `results/`.
 ## Credits
 * The LSTM architecture and the original training notebook come from the ECE 208 team project at the University of Rochester with Cheng (Tony) Ke and Felipe Villanueva: [Predictive-Maintenance-for-Aerospace-Systems-RUL-Prediction](https://github.com/FrozenEel/Predictive-Maintenance-for-Aerospace-Systems-RUL-Prediction). This repository's data pipeline, evaluation protocol, export, quantization, benchmarking and real-time experiments are new.
 * Dataset: NASA CMAPSS turbofan engine degradation simulation (NASA Prognostics Center of Excellence data set repository).
-* **AI assistance:** I used Claude (Anthropic) to help write the scripts, plan the experiments and draft this README. I ran every experiment on my own hardware, and the numbers above are copied from the outputs of those runs.
+* **AI assistance:** I used Claude (Anthropic) to plan the experiments and draft this README. I ran every experiment on my own hardware, and the numbers above are copied from the outputs of those runs.
